@@ -11,7 +11,7 @@ Sou o Lucas Santos, um desenvolvedor apaixonado por criar experiências digitais
 ### Contato 
 
 * **Email:** lucas.lukas3245@gmail.com
-* **LinkedIn:** (https://www.linkedin.com/in/lucas-da-silva-santos)
+* **LinkedIn:** https://www.linkedin.com/in/lucas-da-silva-santos
 
 Além de programar, adoro jogar videogames  e praticar esportes.
 
