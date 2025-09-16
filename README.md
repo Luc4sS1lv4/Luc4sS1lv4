@@ -6,7 +6,7 @@ Sou o Lucas Santos, um desenvolvedor apaixonado por criar experiências digitais
 
 * **Front-end:** HTML, CSS, JavaScript, typeScript
 * **Back-end:** Node.js, Express.js, Prisma Orm, Docker, Fastify
-* **Banco de dados:** MYSQL
+* **Banco de dados:** MYSQL, Maria DB, Postegresql
 
 ### Contato 
 
