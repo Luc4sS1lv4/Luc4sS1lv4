@@ -4,8 +4,8 @@ Sou o Lucas Santos, um desenvolvedor apaixonado por criar experiências digitais
 
 ### Habilidades técnicas ️
 
-* **Front-end:** HTML, CSS, JavaScript
-* **Back-end:** Node.js, Express.js
+* **Front-end:** HTML, CSS, JavaScript, typeScript
+* **Back-end:** Node.js, Express.js, Prisma Orm, Docker, Fastify
 * **Banco de dados:** MYSQL
 
 ### Contato 
