@@ -49,7 +49,7 @@ Em constante evolução e aberto a desafios que ampliem meu conhecimento.
 <div>  
   <div align="center"> 
   <a href="https://github.com/Luc4sS1lv4">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luc4sS1lv4&show_icons=true&theme=algolia"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luc4sS1lv4&show_icons=true&theme=github_dark"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc4sS1lv4&theme=algolia&hide_border=false&&layout=compact"/>  
 </div>
 
