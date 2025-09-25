@@ -49,7 +49,7 @@ Em constante evolução e aberto a desafios que ampliem meu conhecimento.
 <div>  
   <div align="center"> 
   <a href="https://github.com/lucasantoos">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasantoos&show_icons=true&theme=holi"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasantoos&show_icons=true&toutrun"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasantoos&theme=holi&hide_border=false&&layout=compact"/>  
 </div>
 
